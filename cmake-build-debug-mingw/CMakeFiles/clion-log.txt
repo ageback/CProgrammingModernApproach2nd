@@ -1,0 +1,4 @@
+C:\Users\LMH\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3739.54\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/LMH/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/ninja/win/ninja.exe -G Ninja -S D:\Github\CProgrammingModernApproach2nd -B D:\Github\CProgrammingModernApproach2nd\cmake-build-debug-mingw
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw

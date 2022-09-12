@@ -1,0 +1,13 @@
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/proj_1.dir
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/proj_2.dir
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/proj_3.dir
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/proj_7.dir
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/tprintf.dir
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/unexpected_scanf.dir
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/addfrac.dir
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/square.dir
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/ch6_sum.dir
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/ch7_length.dir
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/ch8_reverse.dir
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

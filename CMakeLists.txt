@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.23)
+project(CProgrammingModernApproach2nd C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(proj_1 ch2/projects/proj_1.c)
+add_executable(proj_2 ch2/projects/proj_2.c)
+add_executable(proj_3 ch2/projects/proj_3.c)
+add_executable(proj_7 ch2/projects/proj_7.c)
+add_executable(tprintf ch3/programs/tprintf.c)
+add_executable(unexpected_scanf ch3/programs/unexpected_scanf.c)
+add_executable(addfrac ch3/programs/addfrac.c)
+add_executable(square ch6/programs/square.c)
+add_executable(ch6_sum ch6/programs/ch6_sum.c)
+add_executable(ch7_length ch7/programs/ch7_length.c)
+add_executable(ch8_reverse ch8/programs/ch8_reverse.c)
