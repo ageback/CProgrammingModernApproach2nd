@@ -9,5 +9,7 @@ D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/squar
 D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/ch6_sum.dir
 D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/ch7_length.dir
 D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/ch8_reverse.dir
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/quicksort.dir
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/ch9_quicksort.dir
 D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
 D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
