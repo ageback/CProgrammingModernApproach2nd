@@ -69,6 +69,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "ch11_maxmin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch11_maxmin-Debug-c492e5891f31838674a7.json",
+					"name" : "ch11_maxmin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "ch6_sum::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-ch6_sum-Debug-e020eec16393259704f0.json",
 					"name" : "ch6_sum",
@@ -91,7 +98,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ch9_quicksort::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ch9_quicksort-Debug-c87852d96eb2cf070e52.json",
+					"jsonFile" : "target-ch9_quicksort-Debug-d2b6fe5376229dbdacd9.json",
 					"name" : "ch9_quicksort",
 					"projectIndex" : 0
 				},
@@ -125,13 +132,6 @@
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "quicksort::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-quicksort-Debug-b0bf1ce65276cd071407.json",
-					"name" : "quicksort",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
 					"id" : "square::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-square-Debug-45d1b169b33a532c72d7.json",
 					"name" : "square",
@@ -157,7 +157,7 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Github/CProgrammingModernApproach2nd/cmake-build-debug",
+		"build" : "D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw",
 		"source" : "D:/Github/CProgrammingModernApproach2nd"
 	},
 	"version" : 
