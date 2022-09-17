@@ -11,5 +11,6 @@ D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/ch7_l
 D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/ch8_reverse.dir
 D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/ch9_quicksort.dir
 D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/ch11_maxmin.dir
+D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/ch11_swap.dir
 D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
 D:/Github/CProgrammingModernApproach2nd/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

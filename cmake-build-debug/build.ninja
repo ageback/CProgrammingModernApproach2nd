@@ -469,6 +469,39 @@ build ch11_maxmin.exe: C_EXECUTABLE_LINKER__ch11_maxmin_Debug CMakeFiles/ch11_ma
   TARGET_IMPLIB = libch11_maxmin.dll.a
   TARGET_PDB = ch11_maxmin.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target ch11_swap
+
+
+#############################################
+# Order-only phony target for ch11_swap
+
+build cmake_object_order_depends_target_ch11_swap: phony || CMakeFiles/ch11_swap.dir
+
+build CMakeFiles/ch11_swap.dir/ch11/excersize/ch11_swap.c.obj: C_COMPILER__ch11_swap_Debug D$:/Github/CProgrammingModernApproach2nd/ch11/excersize/ch11_swap.c || cmake_object_order_depends_target_ch11_swap
+  DEP_FILE = CMakeFiles\ch11_swap.dir\ch11\excersize\ch11_swap.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\ch11_swap.dir
+  OBJECT_FILE_DIR = CMakeFiles\ch11_swap.dir\ch11\excersize
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ch11_swap
+
+
+#############################################
+# Link the executable ch11_swap.exe
+
+build ch11_swap.exe: C_EXECUTABLE_LINKER__ch11_swap_Debug CMakeFiles/ch11_swap.dir/ch11/excersize/ch11_swap.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ch11_swap.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ch11_swap.exe
+  TARGET_IMPLIB = libch11_swap.dll.a
+  TARGET_PDB = ch11_swap.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -498,6 +531,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 build addfrac: phony addfrac.exe
 
 build ch11_maxmin: phony ch11_maxmin.exe
+
+build ch11_swap: phony ch11_swap.exe
 
 build ch6_sum: phony ch6_sum.exe
 
@@ -529,7 +564,7 @@ build unexpected_scanf: phony unexpected_scanf.exe
 #############################################
 # Folder: D:/Github/CProgrammingModernApproach2nd/cmake-build-debug
 
-build all: phony proj_1.exe proj_2.exe proj_3.exe proj_7.exe tprintf.exe unexpected_scanf.exe addfrac.exe square.exe ch6_sum.exe ch7_length.exe ch8_reverse.exe ch9_quicksort.exe ch11_maxmin.exe
+build all: phony proj_1.exe proj_2.exe proj_3.exe proj_7.exe tprintf.exe unexpected_scanf.exe addfrac.exe square.exe ch6_sum.exe ch7_length.exe ch8_reverse.exe ch9_quicksort.exe ch11_maxmin.exe ch11_swap.exe
 
 # =============================================================================
 # Built-in targets
